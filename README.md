@@ -2,7 +2,7 @@
 
 Welcome to my Flask TODO app! This is a simple application built using Flask for the backend and SQLAlchemy for database management. This project marks the beginning of my journey into backend development with Python.
 
-#### Project is Hosted on Render : https://flask-app-todo-1r05.onrender.com/developer
+#### Project is Hosted on Render : https://flask-app-todo-1r05.onrender.com
 
 ## Project Overview
 
